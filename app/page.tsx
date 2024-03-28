@@ -19,7 +19,7 @@ export default function Page() {
 
           <p className= {`${lusitana.className} text-xl text-gray-800 md:text-3xl md:leading-normal`}>
 
-            <strong>Welcome to HedgeTek.</strong> This is the example for the{' '}
+            <strong>Welcome to HedgeTe .</strong> Explore{' '}
             <a href="https://fi-tek.com/" className="text-blue-500">
              HedgeTek Analytics
             </a>
